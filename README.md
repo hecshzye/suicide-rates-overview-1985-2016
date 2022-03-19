@@ -13,5 +13,5 @@ from Kaggle
 - Suicide in the Twenty-First Century. 
 (Retrieved from https://www.kaggle.com/szamil/suicide-in-the-twenty-first-century/notebook)
 
-- World Health Organization. (2018). Suicide prevention. 
+- World Health Organization. (2018) Suicide prevention. 
 (Retrieved from http://www.who.int/mental_health/suicide-prevention/en/)
