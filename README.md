@@ -38,3 +38,6 @@ The process shapes you before success rewards you.
 Be strong.
 
 I'm proud of you for making it this far. Let's keep going! ❤️ 🔥
+
+![FK0WbN4UUAU0NYR](https://user-images.githubusercontent.com/87764103/159164659-be9940a9-cb6b-4e94-a891-d3622f0d9e4e.jpeg)
+
