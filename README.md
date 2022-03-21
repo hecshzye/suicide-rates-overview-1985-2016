@@ -48,7 +48,7 @@ I'm proud of you for making it this far. Let's keep going! ❤️ 🔥
 
 ![download](https://user-images.githubusercontent.com/87764103/159251403-9790a682-e0f1-45f3-890e-2a670370948f.png)
 
-**Model using Random Forest Regressor
+## Model using Random Forest Regressor
 
 ![download (1)](https://user-images.githubusercontent.com/87764103/159255814-6025859b-fd3b-4177-bac5-70f35b514415.png)
 
