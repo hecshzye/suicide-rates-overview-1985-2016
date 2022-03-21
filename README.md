@@ -50,7 +50,7 @@ I'm proud of you for making it this far. Let's keep going! ❤️ 🔥
 
 **Model using Random Forest Regressor
 
-![__results___38_0](https://user-images.githubusercontent.com/87764103/159251475-b9708374-1f1b-417d-ae03-5f7804d45dfd.png)
+![download (1)](https://user-images.githubusercontent.com/87764103/159255814-6025859b-fd3b-4177-bac5-70f35b514415.png)
 
 
 # Conclusion
