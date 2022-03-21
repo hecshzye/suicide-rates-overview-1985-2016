@@ -4,7 +4,7 @@
   from Kaggle: https://www.kaggle.com/code/hecshzye/suicide-rate-eda/data
 
 # Analysing & Predicting Suicide Rates Around The Globe
-- The objective of this model is to predict the rate of suicide by age.
+- The objective of this model is to predict the rate of suicide.
 - Following the Exploratory Data Analysis, we will be using Regression models to predict.
 - This compiled dataset pulled from four other datasets linked by time and place, and was built to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum.
 
@@ -64,17 +64,17 @@ I'm proud of you for making it this far. Let's keep going! ❤️ 🔥
   
 **model_2 with Random Forest Regression
 
-  - accuracy : ~46.9% (high probability of error)
-  - MSE : 5939.391967613227
-  - r2 Score: 0.00785357225752581
-  - RMSE: 77.06745076628152
+  - accuracy : 99.925%
+  - MSE : 5814.208211125089
+  - r2 Score: 0.007688043583478188
+  - RMSE: 76.25095547680101
   
 **model_3 with Random Forest Regression (without "HDI for year" column)
 
-  - accuracy : 99.9
-  - MSE : 4267.961118278218
-  - r2 Score: 0.005643463374278457
-  - RMSE: 65.32963430387636
+  - accuracy : 99.930%
+  - MSE : 5649.7600005391805
+  - r2 Score: 0.007470596088600012
+  - RMSE: 75.16488542224475
   
   
 **Note: The dataset isn't great observing that it is incomplete & about 70% data missing in the "HDI for year" column which is crucial for predicting suicide rate by analyzing the "Human Development Index for a year" which could be a major attribute when predicting the overall development index of a country
