@@ -1,7 +1,7 @@
 # Suicide Rates Overview (1985-2016)
 
 # Dataset & History
-  from Kaggle
+  from Kaggle: https://www.kaggle.com/code/hecshzye/suicide-rate-eda/data
 
 # Analysing & Predicing Suicide Rates Around The Globe
 - The objective of this model is to predict the rate of suicide by age.
