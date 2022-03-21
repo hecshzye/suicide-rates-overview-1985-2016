@@ -44,7 +44,7 @@ I'm proud of you for making it this far. Let's keep going! ❤️ 🔥
 
 # Exploratory Data Analysis
 
-**Model using Linear Regression
+## Model using Linear Regression
 
 ![download](https://user-images.githubusercontent.com/87764103/159251403-9790a682-e0f1-45f3-890e-2a670370948f.png)
 
@@ -55,21 +55,21 @@ I'm proud of you for making it this far. Let's keep going! ❤️ 🔥
 
 # Conclusion
 
-**model_1 with Linear Regression
+## model_1 with Linear Regression
 
   - accuracy : 46.9%
   - MSE : 373662.16998576623
   - r2 : 0.49408809317334645
   - RMSE : 611.2791260837935
   
-**model_2 with Random Forest Regression
+## model_2 with Random Forest Regression
 
   - accuracy : 99.925%
   - MSE : 5814.208211125089
   - r2 Score: 0.007688043583478188
   - RMSE: 76.25095547680101
   
-**model_3 with Random Forest Regression (without "HDI for year" column)
+## model_3 with Random Forest Regression (without "HDI for year" column)
 
   - accuracy : 99.930%
   - MSE : 5649.7600005391805
@@ -77,4 +77,4 @@ I'm proud of you for making it this far. Let's keep going! ❤️ 🔥
   - RMSE: 75.16488542224475
   
   
-**Note: The dataset isn't great observing that it is incomplete & about 70% data missing in the "HDI for year" column which is crucial for predicting suicide rate by analyzing the "Human Development Index for a year" which could be a major attribute when predicting the overall development index of a country
+## Note: The dataset isn't great observing that it is incomplete & about 70% data missing in the "HDI for year" column which is crucial for predicting suicide rate by analyzing the "Human Development Index for a year" which could be a major attribute when predicting the overall development index of a country
