@@ -3,7 +3,7 @@
 # Dataset & History
   from Kaggle: https://www.kaggle.com/code/hecshzye/suicide-rate-eda/data
 
-# Analysing & Predicing Suicide Rates Around The Globe
+# Analysing & Predicting Suicide Rates Around The Globe
 - The objective of this model is to predict the rate of suicide by age.
 - Following the Exploratory Data Analysis, we will be using Regression models to predict.
 - This compiled dataset pulled from four other datasets linked by time and place, and was built to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum.
