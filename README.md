@@ -41,3 +41,40 @@ I'm proud of you for making it this far. Let's keep going! ❤️ 🔥
 
 ![FK0WbN4UUAU0NYR](https://user-images.githubusercontent.com/87764103/159164659-be9940a9-cb6b-4e94-a891-d3622f0d9e4e.jpeg)
 
+
+# Exploratory Data Analysis
+
+**Model using Linear Regression
+
+![download](https://user-images.githubusercontent.com/87764103/159251403-9790a682-e0f1-45f3-890e-2a670370948f.png)
+
+**Model using Random Forest Regressor
+
+![__results___38_0](https://user-images.githubusercontent.com/87764103/159251475-b9708374-1f1b-417d-ae03-5f7804d45dfd.png)
+
+
+# Conclusion
+
+**model_1 with Linear Regression
+
+  - accuracy : 46.9%
+  - MSE : 373662.16998576623
+  - r2 : 0.49408809317334645
+  - RMSE : 611.2791260837935
+  
+**model_2 with Random Forest Regression
+
+  - accuracy : ~46.9% (high probability of error)
+  - MSE : 5939.391967613227
+  - r2 Score: 0.00785357225752581
+  - RMSE: 77.06745076628152
+  
+**model_3 with Random Forest Regression (without "HDI for year" column)
+
+  - accuracy : 99.9
+  - MSE : 4267.961118278218
+  - r2 Score: 0.005643463374278457
+  - RMSE: 65.32963430387636
+  
+  
+**Note: The dataset isn't great observing that it is incomplete & about 70% data missing in the "HDI for year" column which is crucial for predicting suicide rate by analyzing the "Human Development Index for a year" which could be a major attribute when predicting the overall development index of a country
